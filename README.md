@@ -29,3 +29,7 @@ http://www.onlinemictest.com/microphone-settings/ubuntu
 http://tuxradar.com/content/how-it-works-linux-audio-explained#null
 
 https://github.com/overtone/overtone/wiki/Installing-and-starting-jack
+
+http://en.wikibooks.org/wiki/Digital_Music_Composition/Making_Sound
+
+http://en.wikipedia.org/wiki/PulseAudio
