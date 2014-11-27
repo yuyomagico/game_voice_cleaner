@@ -18,7 +18,9 @@ Presentación explicativa
 
 Adjunto está la presentación preparada sobre nuestra investigación técnica acerca de *Voice Cleaner*.
 
-[LINK](etc/presentation/index.html)
+[![LINK](https://raw.githubusercontent.com/yuyomagico/game_voice_cleaner/master/etc/presentation/assets/thumbnail.jpeg)](https://cdn.rawgit.com/yuyomagico/game_voice_cleaner/master/etc/presentation/index.html)
+
+[PDF](etc/presentation.pdf)
 
 Estado de avance
 ----------------
